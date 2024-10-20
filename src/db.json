@@ -1,0 +1,90 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A story about the Jazz Age in the United States.",
+      "cover": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A novel about the serious issues of race and rape in the Deep South.",
+      "cover": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A story about a teenager's disillusionment in the 1950s.",
+      "cover": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
+      "cover": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "description": "The narrative of a ship captain's obsession with hunting a giant whale.",
+      "cover": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "description": "A historical novel that chronicles the French invasion of Russia.",
+      "cover": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "8",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "description": "An epic poem that follows Odysseus's journey home from the Trojan War.",
+      "cover": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "9",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "description": "A psychological drama that delves into the mind of a criminal.",
+      "cover": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "10",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "description": "A philosophical novel about a man whose portrait ages instead of him.",
+      "cover": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 1729442471786,
+      "title": "test book",
+      "author": "test author",
+      "description": "dtest descriptino",
+      "cover": "dsadsadsa"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "token": "jwt-token-admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "user123",
+      "role": "user",
+      "token": "jwt-token-user"
+    }
+  ]
+}
