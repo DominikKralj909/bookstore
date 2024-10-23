@@ -28,8 +28,6 @@ This is a simple bookstore application built with React, Redux, Material-UI, and
 **Clone the Repository**: 
 
 - git clone: https://github.com/DominikKralj909/bookstore.git
-**Install Dependencies**:
-  
 - cd bookstore 
 - Run `npm install` to install all necessary dependencies. 
 ## Running the Application: 
