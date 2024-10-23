@@ -26,8 +26,7 @@ This is a simple bookstore application built with React, Redux, Material-UI, and
 `git clone https://github.com/yourusername/bookstore.git](https://github.com/DominikKralj909/bookstore.git) && cd bookstore` 
 **Install Dependencies**: 
 Run `npm install` to install all necessary dependencies. 
-3. **Setup JSON Server**: 
-Create a `db.json` file at the root of your project with the following content: `{"books": []}` 
-## Running the Application: To start both the React frontend and the JSON server concurrently, use: `npm start`
+## Running the Application: 
+To start both the React frontend and the JSON server concurrently use: `npm start`
 This will start the React app on `http://localhost:3000` and the JSON server on `http://localhost:5000`.
 
