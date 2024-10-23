@@ -17,27 +17,17 @@ This is a simple bookstore application built with React, Redux, Material-UI, and
 - Axios
 - JSON Server
 - Concurrently
+# Installation and Starting the App: 
+## Prerequisites:
+- Node.js (version 14 or higher) -
+- npm (comes with Node.js)
+## Installation 
+**Clone the Repository**: 
+`git clone https://github.com/yourusername/bookstore.git](https://github.com/DominikKralj909/bookstore.git) && cd bookstore` 
+**Install Dependencies**: 
+Run `npm install` to install all necessary dependencies. 
+3. **Setup JSON Server**: 
+Create a `db.json` file at the root of your project with the following content: `{"books": []}` 
+## Running the Application: To start both the React frontend and the JSON server concurrently, use: `npm start`
+This will start the React app on `http://localhost:3000` and the JSON server on `http://localhost:5000`.
 
-## Prerequisites
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-   ```bash
-   git clone https://github.com/DominikKralj909/bookstore.git
-   cd bookstore ```
-
-
-2. **Installation**
-   ```bash
-    npm install
-   ```
-
-3. **Starting the app**
-```bash
-    npm start
-```
