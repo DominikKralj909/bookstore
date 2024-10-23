@@ -20,12 +20,12 @@ This is a simple bookstore application built with React, Redux, Material-UI, and
 
 ## Prerequisites
 
-- Node.js (version 14 or higher)
-- npm (comes with Node.js)
+### `npm test`
 
-## Setup
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-1. **Clone the Repository**
+### `npm run build`
 
    ```bash
    git clone https://github.com/DominikKralj909/bookstore.git
